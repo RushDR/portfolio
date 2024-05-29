@@ -1,0 +1,22 @@
+style.css
+
+
+footer.container {
+    background-color: #E6E6FA; /* Set background color */
+    padding : 30px; /* Add padding */
+    margin-top : 50px; /* Add space between footer and content */
+}
+
+
+footer.container div.text-center {
+    text-align: center;
+}
+
+
+.btn-thingy {
+    margin-bottom: 10px; /* Add space between buttons */
+}
+
+
+
+
